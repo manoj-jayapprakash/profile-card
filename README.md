@@ -10,7 +10,7 @@
 
 ### Screenshot
 
-![Screenshot](./Profile card componen.png)
+![Screenshot](./Profile card componen.png?raw=true )
 
 ### Links
 
