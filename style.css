@@ -53,8 +53,8 @@ p {
 .profile__image {
   border-radius: 50%;
   position: absolute;
-  top: -50px;
-  left: 110px;
+  top: -40%;
+  left: 35%;
   border: 5px solid white;
 }
 
@@ -66,4 +66,28 @@ p {
 .profile__age {
   color: hsl(0, 0%, 59%);
   font-weight: 400;
+}
+
+.profile__city {
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+
+  padding: 2rem;
+  border-top: 1px solid hsla(0, 0%, 59%, 20%);
+}
+
+.stats__title {
+  margin-bottom: 0;
+  font-size: 1.2rem;
+}
+
+.stats__description {
+  margin: 10px 0 0 0;
+  font-size: 0.7rem;
+  letter-spacing: 1.5px;
 }
