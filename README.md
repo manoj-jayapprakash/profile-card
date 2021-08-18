@@ -10,7 +10,7 @@
 
 ### Screenshot
 
-![Screenshot](https://raw.github.com/manoj-jayapprakash/profile-card/main/Profile card componen.png?raw=true )
+![Screenshot](https://raw.github.com/manoj-jayapprakash/profile-card/main/Profile.png?raw=true)
 
 ### Links
 
